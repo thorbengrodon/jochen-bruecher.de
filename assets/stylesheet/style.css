@@ -16,7 +16,7 @@ nav {
 }
 
 #container {
-    position: relative;
+    position: fixed;
     display: inline-block;
     height: auto;
     top: 50%;
